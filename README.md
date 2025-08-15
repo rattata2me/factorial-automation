@@ -1,6 +1,6 @@
-# Fucktorial V2 Chrome Extension (Made with AI SLOP)
+# Factorial Automation Chrome Extension (Made with AI SLOP)
 
-![Fucktorial V2 Icon](icons/icon128.png)
+![Factorial Automation Icon](icons/icon128.png)
 
 A Chrome extension that automates shift submissions in Factorial HR. This extension allows you to:
 
