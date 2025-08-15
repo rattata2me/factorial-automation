@@ -12,6 +12,8 @@ A Chrome extension that automates shift submissions in Factorial HR. This extens
 
 Spiritually based on [fucktorial](https://github.com/txomin-jimenez/fucktorial).
 
+![Screenshot](icons/screenshot.jpg)
+
 ## Build
 
 1. Install dependencies:
