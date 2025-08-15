@@ -9,18 +9,13 @@
     "128": "icons/icon128.png"
   },
   "permissions": [
-    "activeTab",
-    "scripting"
+    "activeTab"
   ],
   "host_permissions": [
-    "<all_urls>"
+    "https://app.factorial.com/*"
   ],
   "action": {
     "default_popup": "popup.html"
-  },
-  "background": {
-    "service_worker": "dist/background.js",
-    "type": "module"
   },
   "content_scripts": [
     {
